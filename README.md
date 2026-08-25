@@ -1,2 +1,4 @@
 # git-test2
-NEW PC NEW ME
+Hello Odin!
+
+re running git
